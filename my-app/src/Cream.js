@@ -3,14 +3,14 @@ import './App.css';
 
 function Cream () {
   return (
-    <div className="Cream">
-      <header className="Cream-header">
-        <img src={logo} className="Cream-logo" alt="logo" />
+    <div className="cream">
+      <header className="cream-header">
+        <img src={logo} className="cream-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="Cream-link"
+          className="cream-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
